@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexfl14
+- 👋 Hi, I’m @AlexFl14
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
